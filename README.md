@@ -3,6 +3,9 @@
 
 I am a **Full Stack Dev** - recent graduate from _Makers_ in London, and previously a pastry chef ![cake](https://media.giphy.com/media/STrWwitY3HUHtq3QVi/giphy.gif)
 
+<img src="https://media.giphy.com/media/STrWwitY3HUHtq3QVi/giphy.gif" width="250" height="250"/>
+
+
 , looking for _Junior Developer roles_ across London. Enthusiastic, determined and proactive are adjectives that define me as a person!
 
 👇 Hit in your terminal to take a look at the short version of my CV or 👉  [click here](https://github.com/cfujiname/CV "click here") to have a broader view of me.
