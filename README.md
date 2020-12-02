@@ -3,7 +3,7 @@
 
 I am a **Full Stack Dev** - recent graduate from _Makers_ in London and previously a pastry chef  :cake: , looking for _Junior Developer roles_ across London.
 
-👇 Hit in your terminal to take a look at the short version of my CV - or click here to have a broader view
+👇 Hit in your terminal to take a look at the short version of my CV or [click here](https://github.com/cfujiname/CV "click here") to have a broader view of myself.
 
 ```
 npx cfujiname2020
