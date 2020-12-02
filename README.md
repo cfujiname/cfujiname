@@ -1,9 +1,7 @@
 # Hello, I'm Cristina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a **Full Stack Dev** - recent graduate from _Makers_ in London, and previously a pastry chef 
-
-<img src="https://media.giphy.com/media/STrWwitY3HUHtq3QVi/giphy.gif" width="150" height="150"/>
+I am a **Full Stack Dev** - recent graduate from _Makers_ in London, and previously a pastry chef <img src="https://media.giphy.com/media/STrWwitY3HUHtq3QVi/giphy.gif" width="50" height="50"/>
 
 
 , looking for _Junior Developer roles_ across London. Enthusiastic, determined and proactive are adjectives that define me as a person!
