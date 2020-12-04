@@ -10,7 +10,7 @@ npx cfujiname2020
 ```
 
 
-![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=cfujiname&theme=dark&show_icons=true)
+![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=cfujiname&theme=graywhite&show_icons=true)
 
 
 <p align="center">
