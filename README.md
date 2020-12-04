@@ -9,7 +9,7 @@ I am a **Full Stack Developer** - recent graduate from _Makers_ in London, and p
 npx cfujiname2020
 ```
 
-<center"><img src="https://github-readme-stats.vercel.app/api?username=cfujiname&theme=graywhite&show_icons=true" />
+<center><img src="https://github-readme-stats.vercel.app/api?username=cfujiname&theme=graywhite&show_icons=true" />
 </center>
 
 <p align="center">
