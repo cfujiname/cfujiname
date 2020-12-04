@@ -9,9 +9,9 @@ I am a **Full Stack Developer** - recent graduate from _Makers_ in London, and p
 npx cfujiname2020
 ```
 
-
+<p align="center">
 ![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=cfujiname&theme=graywhite&show_icons=true)
-
+</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/cristina-fujiname-787b20152/s>/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
